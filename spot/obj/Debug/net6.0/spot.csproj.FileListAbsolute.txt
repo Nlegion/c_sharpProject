@@ -1,0 +1,15 @@
+C:\Users\npara\OneDrive\Documents\c_sharpProject\spot\bin\Debug\net6.0\spot.exe
+C:\Users\npara\OneDrive\Documents\c_sharpProject\spot\bin\Debug\net6.0\spot.deps.json
+C:\Users\npara\OneDrive\Documents\c_sharpProject\spot\bin\Debug\net6.0\spot.runtimeconfig.json
+C:\Users\npara\OneDrive\Documents\c_sharpProject\spot\bin\Debug\net6.0\spot.dll
+C:\Users\npara\OneDrive\Documents\c_sharpProject\spot\bin\Debug\net6.0\spot.pdb
+C:\Users\npara\OneDrive\Documents\c_sharpProject\spot\obj\Debug\net6.0\spot.csproj.AssemblyReference.cache
+C:\Users\npara\OneDrive\Documents\c_sharpProject\spot\obj\Debug\net6.0\spot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\npara\OneDrive\Documents\c_sharpProject\spot\obj\Debug\net6.0\spot.AssemblyInfoInputs.cache
+C:\Users\npara\OneDrive\Documents\c_sharpProject\spot\obj\Debug\net6.0\spot.AssemblyInfo.cs
+C:\Users\npara\OneDrive\Documents\c_sharpProject\spot\obj\Debug\net6.0\spot.csproj.CoreCompileInputs.cache
+C:\Users\npara\OneDrive\Documents\c_sharpProject\spot\obj\Debug\net6.0\spot.dll
+C:\Users\npara\OneDrive\Documents\c_sharpProject\spot\obj\Debug\net6.0\refint\spot.dll
+C:\Users\npara\OneDrive\Documents\c_sharpProject\spot\obj\Debug\net6.0\spot.pdb
+C:\Users\npara\OneDrive\Documents\c_sharpProject\spot\obj\Debug\net6.0\spot.genruntimeconfig.cache
+C:\Users\npara\OneDrive\Documents\c_sharpProject\spot\obj\Debug\net6.0\ref\spot.dll
